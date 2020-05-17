@@ -79,6 +79,10 @@ https://medium.com/@shastri.shankar9/apache-kafka-vs-amazon-kinesis-b55821c7f51f
 
 https://levelup.gitconnected.com/creating-a-chat-app-with-serverless-websockets-and-python-a-tutorial-54cbc432e4f
 
+# websockets zappa
+
+https://github.com/Miserlou/Zappa/issues/649
+
 
 # zappa layers
 
